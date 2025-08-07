@@ -125,7 +125,7 @@ const SkillsSection = () => {
              🏆 Achievements & Milestones
           </h3>
           <div className="flex flex-wrap justify-center gap-3">
-            {['Physics Poster Context', 'Math Olympiad', 'Project Showcase AIUB-Fest',]
+            {['Physics Poster Context', 'Project Showcase AIUB-Fest',]
               .map((skill, index) => (
               <motion.div
                 key={index}
